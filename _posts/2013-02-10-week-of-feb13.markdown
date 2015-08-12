@@ -1,0 +1,43 @@
+---
+layout: post
+status: publish
+published: true
+title: Week of Big Data Sec Viz (hehe), Android Assessments, Rubygems Compromise,
+  Phishing and a bunch of awesome vids
+permalink: readings-big-data-sec-viz-android-rubygems-compromise
+author:
+  display_name: Christian
+  login: xntrik
+  email: xntrik@un-excogitate.org
+  url: ''
+author_login: xntrik
+author_email: xntrik@un-excogitate.org
+wordpress_id: 779
+wordpress_url: http://un-excogitate.org/?p=779
+date: '2013-02-10 22:56:34 +0000'
+date_gmt: '2013-02-10 14:56:34 +0000'
+tags:
+- web application
+- malware
+- cloud
+- Security
+- ruby
+- visualisation
+- big data
+- android
+- video
+comments: []
+---
+<p><strong>Security</strong></p>
+<p>Just some security things that I've found interesting (read: they rocked)..</p>
+<p><a href="http://blog.packetloop.com/2013/01/5-minutes-with-packetloop-beta.html">5 Minutes with the Packetloop Beta</a> - The Packetloop presentation at Ruxcon last year was one of the highlights for me, <a href="https://twitter.com/cloudjunky">Michael Baker</a> did a really good job of demonstrating (even last Nov) utilising compute clusters to analyse and give the security defender a heads up of large data sets. This video is a really good look at the UI and yeah, it combines a bunch of stuff I enjoy, especially visualisation, and large-data-set analysis. (Phew, got through that without saying cloud or big data!)</p>
+<p><a href="http://resources.infosecinstitute.com/android-application-assessment/">Android Application Assessment</a> - A fairly extensive walkthrough of performing an app assessment against apps on Android. Nuff said.</p>
+<p><a href="http://www.h-online.com/security/news/item/Rubygems-site-recovers-from-compromise-1794746.html">Rubygems Site Recovers from Compromise</a> - I'm a little slow in posting about this, but the community driven <a href="http://rubygems.org/">rubygems</a> site suffered a breach due to the recent Ruby YAML issues that surfaced a couple of weeks ago. Apart from the article, I actually found their incident response process of shifting their 'working' log to gdocs (check it <a href="https://docs.google.com/document/d/10tuM51VKRcSHJtUZotraMlrMHWK1uXs8qQ6Hmguyf1g/preview?sle=true">here</a>).</p>
+<p><a href="http://www.pentestgeek.com/2013/01/30/how-do-i-phish-advanced-email-phishing-tactics/">How do I phish?</a> - <a href="https://twitter.com/zeknox">@Zeknox</a>'s (Brandon McCann) writes up a fairly in-depth look into how he performs phishing campaigns as part of penetration testing exercises. A good one to bookmark for when you need to perform these sorts of assessments yourself. (Thanks again to <a href="https://twitter.com/mubix">Rob Fuller</a> for this).</p>
+<p><a href="http://www.net-security.org/malware_news.php?id=2391">Bill Shocker</a> - hits 600,000+ Android phones! (Exclamationpoints). (In China only?) From what the article seems to be stating is that this malware turns the phones into a botnet of phones, although currently it appears to be using them for sending SMS' at the profit of the attackers. </p>
+<p><strong>Non-Security</strong></p>
+<p>... and then a bunch more non-security stuff ...</p>
+<p><a href="http://www.andybudd.com/archives/2013/02/its_all_academic/">It's All Academic</a> - <a href="https://twitter.com/andybudd">Andy Budd</a> writes up a great article on the disjoint between academics and those working in the web industry. The 'paraphrased' conversation is great, and something that I found very odd when I shifted from academics into the industry.</p>
+<p><a href="http://kottke.org/13/02/the-larger-our-past-gets-the-smaller-our-present-feels">The larger our past gets the smaller our present feels</a> - A great short film that Kottke posted the other day. Great style, and, interesting message about time, and our perception of time as we age. This is certainly something I'm starting to perceive as I get older, and things get more and more difficult.</p>
+<p><a href="http://www.rockpapershotgun.com/2013/02/06/worlds-collide-valve-and-jj-abrams-working-on-movie/">Valve &amp; JJ Abrams Working on a Movie</a> - I'm a gamer, well, when I have time (which, this year is looking very unlikely), and this news is fairly interesting .. but .. the cynic in me is sort of assuming it's just gonna suck.</p>
+<p><a href="http://www.core77.com/blog/object_culture/killer_mockumentary_by_till_nowak_on_physically_unlikely_amusement_park_rides_24339.asp">Mockumentary on Physically Unlikely Amusement Park Rides</a> - .. this .. this was fantastic. I really enjoyed the style, the scientist, the ridiculous rides, and how it starts off and is 'almost' realistic, but then just plummets into the 'wtf'. It sort of made me think of <a href="http://en.wikipedia.org/wiki/Cube_(film)">Cube</a>.</p>

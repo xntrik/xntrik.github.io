@@ -1,0 +1,13 @@
+# Site settings
+title: un-excogitate
+email: xntrik@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  My rambling rambles on sec stuff
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://un-excogitate.org" # the base hostname & protocol for your site
+twitter_username: xntrik
+github_username: xntrik
+timezone: America/Los_Angeles
+
+# Build settings
+markdown: kramdown

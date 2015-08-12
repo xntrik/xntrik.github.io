@@ -1,0 +1,34 @@
+---
+layout: post
+status: publish
+published: true
+permalink: mentors
+title: Mentors
+author:
+  display_name: Christian
+  login: xntrik
+  email: xntrik@un-excogitate.org
+  url: ''
+author_login: xntrik
+author_email: xntrik@un-excogitate.org
+wordpress_id: 860
+wordpress_url: http://un-excogitate.org/?p=860
+date: '2015-07-03 11:08:44 +0000'
+date_gmt: '2015-07-03 03:08:44 +0000'
+tags:
+- education
+- management
+- work
+- business
+- Security
+- development
+comments: []
+---
+<p>I've taken a bit of time over the past week or so to contemplate my life and how it is I've gotten to this point in my professional career. This opportunity for reflection came about in the calm before the storm. In a week or so, my small family and I are jumping on an airplane to relocate to California; stepping away from <a href="https://www.asteriskinfosec.com.au/">business</a>-ownership and consulting life in Perth, Australia, to join an app sec team in a large "Internet" organisation. While the past few days of packing up the house have been frantic, I did get a chance to clear my mind and relax slightly after my last day.</p>
+<p>In our industry of information security, and I presume in others too, it's unusual for people to accomplish anything without mentors. While I understand that the term can sound 'official', and may carry some baggage, when I talk about mentors, I refer to the formal and the informal. If you're lucky, you've worked somewhere where they have formal mentoring programmes, and while I do believe in their value, I think in the end the more informal mentor-relationships will yield stronger results. It's the relationships with these people where it's almost unspoken, but the message is clear: I want to learn from you.</p>
+<p>Since I started working in the security field, about 12 years ago now - which is still fresh compared to many, I've had two distinct people I would call mentors. Lets call these people Peter and David. Because that's their names.</p>
+<p>I was fortunate at university. A lot of people I studied with didn't directly go to work in the field. But during a computer forensics unit I met Pete, who was driven to expand his security knowledge from the physical-realm into the logical and so was taking a bunch of computer security units as a mature-aged student. Pete firmly believed that you couldn't protect physical assets (such as diamonds) without appropriate logical and IT controls as well.  Just as university was finishing up he happened to have a position opening up in his team and he invited me to interview. Over the next 3 years, Pete took me under his wing and taught me so much. He brought me into the corporate environment and showed me how large enterprises work (politics and all), he really helped me understand the importance of quality and rigour, especially when dealing with high-value assets (be it expensive IT systems, managing downtime, relationships, business information and so on). He also introduced me to the wider world in ways I would never have imagined as a student - projects in Antwerp and the Arctic circle in the Northwest Territories of Canada. I wouldn't be where I am now if it wasn't for Pete, and his patience and willingness to teach me and challenge me in ways that university couldn't.</p>
+<p>Towards the end of my time with Pete, I had a drive to learn more about pure information security, and while Pete was always a manager of mine - I would still consider him one of my most important mentors. I still understood the importance of physical security, but I had a passion for application development that wasn't getting itched. This is around the time I met Dave, and got my introduction to the exciting world of security at a bank.</p>
+<p>While Pete had driven me to expand and broaden an understanding of networks, windows environments and digital security systems, my time with Dave really expanded the concepts of 'thinking like a hacker'. Through my career working with Dave I've only formally reported to him once, and while we never discussed his role as a mentor of mine, that's exactly what he became. Dave was the first person I met that demonstrated to me a clear process in divulging in something really fun and challenging, of breaking stuff. As the years flew by, he was probably one of the best people I knew that helped me turn my understanding of software into an understanding of how to break software, how to find vulnerabilities, and more importantly, how to describe these weaknesses to the people that could do something about it. No matter how often I'd shake my head at how he did things behind a computer, his strive for pragmatism has left a mark on my approach to security that I'll never shake. </p>
+<p>When Dave asked me to start a security consulting company with him it was a no-brainer. The person that I was learning the most from was going to start something else, and I had to be there. It's gut-wrenching when I stop and think about leaving the company I helped start, but I've got that itch again, and when an amazing opportunity presents itself I'm generally not the kind of person that wants to look back with regret. </p>
+<p>So if you want to become a better practitioner, try and understand who your mentors are, and do everything you can to leech as much of their experience and wisdom as you can, whether it be in a formal or informal manner. Don't worry yourself with whether their older than you or not, I've been constantly surprised with younger hackers I've met over the past year or so. Just find that person who inspires you to be better, and is willing to lend you a hand in improving yourself, and latch onto them.</p>
