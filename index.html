@@ -2,12 +2,24 @@
 layout: default
 ---
 
+{% assign toppost = site.posts.first %}
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ toppost.title }}</h1>
+    <p class="post-meta">{{ toppost.date | date: "%b %-d, %Y" }}</p>
+  </header>
+  <article class="post-content">
+    {{ toppost.content }}
+  </article>
+</div>
+
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading" id="older-posts">Older Posts</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
+    {% if post.url != toppost.url %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -15,6 +27,7 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
       </li>
+    {% endif %}
     {% endfor %}
   </ul>
 
