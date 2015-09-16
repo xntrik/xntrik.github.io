@@ -1,0 +1,77 @@
+==================================================================
+https://keybase.io/xntrik
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://un-excogitate.org
+  * I am xntrik (https://keybase.io/xntrik) on keybase.
+  * I have a public key with fingerprint F61F B27A 6FFD F1BB F3BD  BD1F F68A 4ABD B663 DE5E
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.7"
+        },
+        "key": {
+            "fingerprint": "f61fb27a6ffdf1bbf3bdbd1ff68a4abdb663de5e",
+            "host": "keybase.io",
+            "key_id": "F68A4ABDB663DE5E",
+            "uid": "588e79f5adc5850598624a58c4433e00",
+            "username": "xntrik"
+        },
+        "merkle_root": {
+            "ctime": 1442376819,
+            "hash": "74c462871fb7df730a40d02d9ecc16120b83af10a4177c9387da0d15042445d6cd6908743c967c9b5b3bfb398052a5af08a110d3769ae67d98811c376cb73c4e",
+            "seqno": 292014
+        },
+        "service": {
+            "hostname": "un-excogitate.org",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1442376874,
+    "expire_in": 157680000,
+    "prev": "927da275f3e4626b534b1efdd346ee2b1dea23d2d2f53aa98632ade9b454a7bf",
+    "seqno": 43,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+Comment: GPGTools - http://gpgtools.org
+
+owFdUmtoHFUU3mQbU2sK9dEfAZE4Ki2arHPn3jt3ZkVtQqOmEqpomqKY7X1uJtnM
+rHdmt0nDKq1S+vBRLVj/SGrbWGyLSiHxEa2aH1ZTVCQg6A8FKbYRNUSqKLXgnRDx
+cX+de853vnO+c86+ldlMfd1veza8N8m/6as7M8cyPb//+NqoxSIxYuVHLV4KZJik
+VkiHpJW3BuUIo7HMBVFLGAmZG4hbljCtVlXqOIhCg7JzJEesWmsKT5NVEBalLusg
+5bKUCxRzCHWVEgowpiATTAClXI8iamzXhUJiaSj7ozj5T1VrkbMQCOO9y/XaUXvH
++g6DX9+JO02sshjAnieJrzAVHHvYxr7nOohijyMEobTtFBhLvSRpOEx0MJh2OyT1
+YEkWdBQtSuZJkAIAQg4krgd80w+N+00KQRy5jkeMDiIUgTZFtrAd4UvOgQscm3mQ
+KmDcgBDuQ48IaguAbeQghIXLhevbHkGQ+66JM8wgUwz6no0diqmyPQqALUxVn0qX
+CN/zAODmyxmBHKWTieWjYWTlHd+xAaqlf10NuEz7Toe2pK0StslhHhWDhCYyF+mi
+ySzrKIl4VDLh/iQpx/lUejJSTvEnt0pWWKIqsCAUZnH/3iww0P+NhaBWSw6XAy0L
+QYrAxmeblxaSVcPpO0a9Q7CC0gzNZRgiBqQSAiJXSocBIakDhSMchSGlZlnQoUL6
+DGFECVP/iEXQNEqLhjMOiiFNKlpatd111y7L1NVnLmuoT283s+LyVX8f9D2TjRcb
+Z3dNnRjb8QyGvbO1zlve/vy50id67VVPzxW3Luua2L7lzXsPfbTzu7uPVKdXP3H6
+qaGTE+cvltz2hpm1vVu2f9AwduanjjWHOw8O6JtWnHu3qfdQQ/Oa/Q8n0y8eyG8c
+o3e26lHywMZP+053785eZ/PNWX34ockLb40/+fPRW4OWBz/uObjnkRtfb+ua/6Xp
+hlNvdN/37ZdHB+YPfHjl7KavXrg6+2vj7U0v1e9v3pl97Ng1fbVo7sLNC7c9vm5m
+3XBz99nPpuPeFrB8Ht0x9crLz67eO37p+b1N5xe2Tfyptl3/wztTC+XKF+e+nxFf
+79rQdv/KrvGzuEefymWPEL3q/eofO6LNx5dXLu274tW/AA==
+=eoCd
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/xntrik
+
+==================================================================
