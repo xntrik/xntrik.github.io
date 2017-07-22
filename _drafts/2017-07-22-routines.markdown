@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+permalink: routines
+title: Routines
+author:
+  display_name: Christian
+  login: xntrik
+  email: xntrik@un-excogitate.org
+  url: ''
+author_login: xntrik
+author_email: xntrik@un-excogitate.org
+date: '2017-07-22 18:00:00 +0800'
+date_gmt: '2017-07-22 18:00:00 +0800'
+tags:
+- Personal
+- work
+---
+<p>Should I be setting myself some targets/goals to change how I get shit done? Why? I've noticed I'm really struggling with keeping on top of everything. What inspired this: re-reading both https://medium.com/the-mission/how-to-structure-your-day-for-optimal-performance-and-productivity-dcbf0665e3f3#.84u391jgw and https://benjaminhardy.com/10-minute-routine-will-increase-clarity-creativity/ from @benjaminphardy</p>
+<p>Takeaways:
+<ol><li>Mornings MUST be protected</li>
+<li>there are things you can do to help this - such as journalling etc. I've been on such a consumption binge (which I feel both in my body and mind) - that perhaps I need this too?</li>
+<li>Each day reflection. I'm generally pretty good at shifting into a 'reading' mode in the evenings, but I'm not great at reflection.</li>
+<li>Things I notice - if I get into work, and can work without interruption with headphones, I generally get more shit done</li>
+<li>If I take 10 mins mid-morning (aka: Headspace) - I generally feel better over all</li>
+<li>I know that exercise will help - but I just don't know how to fit that in</li>
+</ol></p>
