@@ -19,4 +19,5 @@ tags:
 - appsec
 ---
 <p>*Nb: talk about my ACSC presentation. Include pictures from it?</p>
+<p>Mention the recent H1 report - and where Australia sits in it?</p>
 
