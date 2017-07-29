@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+permalink: weekly-july17
+title: The Weekly July 2017
+author:
+  display_name: Christian
+  login: xntrik
+  email: xntrik@un-excogitate.org
+  url: ''
+author_login: xntrik
+author_email: xntrik@un-excogitate.org
+date: '2017-07-26 18:00:00 +0800'
+date_gmt: '2017-07-26 18:00:00 +0800'
+tags:
+- Personal
+- work
+---
+<p>Thigns I"ve enjoyed online - or consumed</p>
+<ul>
+  <li><a href="http://theunboundedspirit.com/society-kills-creativity/">sldakfjasdlfkjasdklfjadsfklj</a></li>
+  <li><a href="https://www.wired.com/story/turn-off-your-push-notifications/">Push Notifications are insane</a></li>
+</ul>
