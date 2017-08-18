@@ -21,4 +21,7 @@ tags:
 <ul>
   <li><a href="http://theunboundedspirit.com/society-kills-creativity/">sldakfjasdlfkjasdklfjadsfklj</a></li>
   <li><a href="https://www.wired.com/story/turn-off-your-push-notifications/">Push Notifications are insane</a></li>
+  <li><a href="https://mystudentvoices.com/a-look-into-nasas-coding-philosophy-b747957c7f8a">NASA's coding philosophy</a></li>
+  <li><a href="https://coffeetocode.net/2017/07/imposter/">Imposter Syndrome stuff</a></li>
+  <li><a href="https://medium.com/the-field-study-handbook/the-art-of-sharing-826ae74f21fb">.......</a></li>
 </ul>

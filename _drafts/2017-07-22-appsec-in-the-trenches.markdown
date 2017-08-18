@@ -14,10 +14,10 @@ author_email: xntrik@un-excogitate.org
 date: '2017-07-22 18:00:00 +0800'
 date_gmt: '2017-07-22 18:00:00 +0800'
 tags:
-- Personal
 - work
 - appsec
 ---
+<p>
 <p>*Nb: talk about my ACSC presentation. Include pictures from it?</p>
 <p>Mention the recent H1 report - and where Australia sits in it?</p>
 
